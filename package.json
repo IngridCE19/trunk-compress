@@ -1,0 +1,21 @@
+{
+  "name": "trunk-compress",
+  "version": "1.0.0",
+  "description": "> A software engineering project focused on Lossless Data Compression and Entropy Analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngridCE19/trunk-compress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/IngridCE19/trunk-compress/issues"
+  },
+  "homepage": "https://github.com/IngridCE19/trunk-compress#readme"
+}
